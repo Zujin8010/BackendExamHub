@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogNetWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a54f29da8c9226245f51c8fc9b0fb54fd8f4ceb3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+627f497397ac0361c2fb4fb42719f1509e33a981")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogNetWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogNetWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
